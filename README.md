@@ -2,12 +2,7 @@
 
 ![Screenshot (146)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/ffb9b653-440c-4345-b6e5-a74df7bc701b)
 
-![Screenshot (148)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/2d6a3f08-33d4-48ba-b3ef-d371c78396c8)
-
-![Screenshot (149)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/893b4efe-a677-477d-872d-ffc0d6f06954)
-
-![Screenshot (147)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/7f324368-a6a3-4270-8c71-16aafa65d5c1)
-
+![Screenshot (151)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/62b12a0f-f7ad-40b4-80cb-ba00df7a2515)
 
 
 ## Overview
@@ -85,15 +80,11 @@ Ensure you have the following software installed on your machine:
 
 ![Screenshot (146)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/ffb9b653-440c-4345-b6e5-a74df7bc701b)
 
-![Screenshot (148)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/2d6a3f08-33d4-48ba-b3ef-d371c78396c8)
+![Screenshot (152)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/fc9d6c23-c148-4414-b60c-9b2430fa87f1)
 
-![Screenshot (149)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/893b4efe-a677-477d-872d-ffc0d6f06954)
-
-![Screenshot (150)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/61aa6b4e-f447-4bed-a30e-04c35a0d190b)
+![Screenshot (151)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/62b12a0f-f7ad-40b4-80cb-ba00df7a2515)
 
 ![Screenshot (145)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/a8f4c2fb-6877-4390-938a-63785dfb98bc)
-
-![Screenshot (147)](https://github.com/RohanShrivastava08/Grocery-Landing-Page-using-Tailwind-CSS/assets/94133270/7f324368-a6a3-4270-8c71-16aafa65d5c1)
 
 
 ## Contributing
